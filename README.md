@@ -1,4 +1,4 @@
-# Paper Recreation
+# Notes
 
 An adaptation of [Learning from Randomly Initialized Neural Network Features](https://arxiv.org/pdf/2202.06438).
 
